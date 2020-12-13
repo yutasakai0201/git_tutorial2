@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "."
+		},
+		{
+			"path": "../GitHubpages"
 		}
 	],
 	"settings": {}
